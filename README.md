@@ -13,3 +13,6 @@ content order | content
 5 | [summery](https://amjadaljirawi.github.io/reading-notes-102/summery)
 6 | [HTML-Structuer](https://amjadaljirawi.github.io/reading-notes-102/HTML-Structuer)
 7 | [css summery](https://amjadaljirawi.github.io/reading-notes-102/css-summery)
+8 | [read6](https://amjadaljirawi.github.io/reading-notes-102/read6)
+9 | [read7](https://amjadaljirawi.github.io/reading-notes-102/read7)
+10| [read8](https://amjadaljirawi.github.io/reading-notes-102/read8)
